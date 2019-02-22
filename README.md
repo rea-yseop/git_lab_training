@@ -1,6 +1,11 @@
 # git_lab
 Git lab for Yseop users
 
+= Version 1.0
+=============
+
+delivery date: 2019_02_22
+
 == Creation of the main
 
 The main display a simple message.
