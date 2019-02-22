@@ -5,7 +5,7 @@ import 'src/file3'
 
 function main() {
 
-    console.log('We are in the main!');
+    console.log('We are in the main, are you happy ?');
 	
 	console.log('first function', myFirstFunction());
 	
