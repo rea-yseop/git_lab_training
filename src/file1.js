@@ -1,4 +1,5 @@
-function myFirstFunction() {
+
+export function myFirstFunction() {
     const i = 0;
 
     i = i + 1;
