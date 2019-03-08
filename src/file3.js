@@ -14,3 +14,7 @@ export function divide(a, b) {
 		return 0;
 }
 
+export function multiply(a, b) {
+	
+	return a*b;
+}
